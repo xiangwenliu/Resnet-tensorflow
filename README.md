@@ -3,8 +3,8 @@
 ## dataset
 This implementation supports cifar10
 ## Dependencies
-tensorflow version 1.6
+tensorflow version 1.2.1
 ## Training
 sbatch sub.sh
-or
+## Training
 python train_resnet.py 
