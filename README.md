@@ -10,5 +10,6 @@ sbatch sub.sh
 python train_resnet.py 
 ## Learining rate strategy
 <img src="lr.jpg" width="280"> 
+
 ## Result
 <img src="train.jpg" width="280"> <img src="test.jpg" width="280">
