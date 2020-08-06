@@ -1,5 +1,5 @@
 # Resnet-tensorflow
-110 layers resnet
+This respository support [18, 34, 50, 101, 152, 200] layers resnet
 ## dataset
 This implementation supports cifar10
 ## Dependencies
